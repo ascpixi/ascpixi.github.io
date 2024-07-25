@@ -30,3 +30,7 @@ User-agent: YouBot
 Disallow: /
 User-agent: Mediapartners-Google*
 Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: YandexBot
+Disallow: /
