@@ -34,3 +34,6 @@ User-agent: Yandex
 Disallow: /
 User-agent: YandexBot
 Disallow: /
+User-agent: cohere-ai
+Disallow: /
+
